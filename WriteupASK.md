@@ -51,6 +51,7 @@ Packages used:
  
  ### Results
  Examples of the Semantic Segmentation:
+ 
  ![runexample1](example1.png)
  ![runexample2](example2.png)
  
