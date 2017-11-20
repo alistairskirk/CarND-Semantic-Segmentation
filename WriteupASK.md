@@ -47,7 +47,8 @@ Packages used:
  *  batch size = 1
  *  learning rate = 0.0001
  
- The model took approximately 17 minutes to train 25 epochs.
+ Epoch 25 ran for 129.36654999999973 seconds with a training loss of 0.06346337671897609
+ The model took approximately 54 minutes to train 25 epochs.
  
  ### Results
  Examples of the Semantic Segmentation:
